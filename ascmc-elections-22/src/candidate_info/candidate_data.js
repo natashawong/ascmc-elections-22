@@ -1,42 +1,15 @@
-export const candidate_data = [
+export const president_candidate_data = [
     {
       imageSource: '',
+      name: '',
       candidateDescription: '',
     },
+]
+
+export const evp_candidate_data = [
     {
-        imageSource: '',
-        candidateDescription: '',
+      imageSource: '',
+      name: '',
+      candidateDescription: '',
     },
-    {
-        imageSource: '',
-        candidateDescription: '',
-    },
-    {
-        imageSource: '',
-        candidateDescription: '',
-    },
-    {
-        imageSource: '',
-        candidateDescription: '',
-    },
-    {
-        imageSource: '',
-        candidateDescription: '',
-    },
-    {
-        imageSource: '',
-        candidateDescription: '',
-    },
-    {
-        imageSource: '',
-        candidateDescription: '',
-    },
-    {
-        imageSource: '',
-        candidateDescription: '',
-    },
-    {
-        imageSource: '',
-        candidateDescription: '',
-    },
-  ]
+]
