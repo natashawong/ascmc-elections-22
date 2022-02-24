@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ascmc-elections-22/static/css/main.e6c13ad2.css",
+    "main.js": "/ascmc-elections-22/static/js/main.150da81e.js",
+    "static/js/787.c2292069.chunk.js": "/ascmc-elections-22/static/js/787.c2292069.chunk.js",
+    "index.html": "/ascmc-elections-22/index.html",
+    "main.e6c13ad2.css.map": "/ascmc-elections-22/static/css/main.e6c13ad2.css.map",
+    "main.150da81e.js.map": "/ascmc-elections-22/static/js/main.150da81e.js.map",
+    "787.c2292069.chunk.js.map": "/ascmc-elections-22/static/js/787.c2292069.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.150da81e.js"
+  ]
+}
