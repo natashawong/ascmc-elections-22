@@ -1,6 +1,6 @@
 export const president_candidate_data = [
     {
-      imageSource: '',
+      imageSource: '../candidate-pics/',
       name: '',
       candidateDescription: '',
     },
@@ -8,7 +8,7 @@ export const president_candidate_data = [
 
 export const evp_candidate_data = [
     {
-      imageSource: '',
+      imageSource: '../candidate-pics/',
       name: '',
       candidateDescription: '',
     },
