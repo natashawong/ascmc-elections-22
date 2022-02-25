@@ -7,9 +7,11 @@ import ascmcLogo from './candidate_info/candidate-pics/ascmclogo.jpg';
 function App() {
   return (
     <div>
-        <div style={{display: "flex", flexDirection: "column", marginLeft: "25%", marginRight: "25%", textAlign: "center", alignItems: "center"}}>
-          <h1>ASCMC Election Statements</h1>
+        <div style={{display: "flex", flexDirection: "column", marginLeft: "25%", marginRight: "25%", textAlign: "left", alignItems: "center"}}>
+          <h1>ASCMC General Election 2022</h1>
           <img src={ascmcLogo} className="logo" alt="ascmc logo"/>
+          <p>The following lists all currently declared candidates in running for elected positions in ASCMC's Executive Board. All the candidates listed below will be on the ballot. Some candidates have submitted candidate statemnts and photos. Speeches will be Monday at snack.</p>
+          <h4>This website will be updated regularly with all candidates that will appear on the ballot as more join the race</h4>
           <h2>President</h2>
           <Candidate candidateInfo={president_candidate_data}/>
           <h2>Executive Vice President</h2>
