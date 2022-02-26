@@ -11,6 +11,7 @@ import gio from './candidate-pics/giovannipierre.jpeg';
 import bryan from './candidate-pics/bryansoh.jpg'
 import blank from './candidate-pics/blank.jpg'
 import ian from './candidate-pics/ianblaime.jpeg'
+import wolfy from './candidate-pics/wolfy.png'
 
 // import ascmcLogo from './candidate_info/candidate-pics/ascmclogo.jpg';
 // import ascmcLogo from './candidate_info/candidate-pics/ascmclogo.jpg';
@@ -96,6 +97,12 @@ export const junior_candidate_data = [
       name: 'Ian Baime (2024 President)',
       candidateDescription: ['As a recently declared candidate Ian\'s candidate statement is incoming'],
     },
+
+    {
+      imageSource: wolfy,
+      name: 'Wolfy Hutton (2024 President)',
+      candidateDescription: ['Hi Class of 2024!  I\'m Wolfy Hutton and I\'m running to be your Junior Class President.  As we all know, our college careers were off to a rocky start, and in many ways we\'ve been denied the ability to engage with student life on campus in the ways that formerly defined CMC student culture.  Riding on the back of this new year (2022), I\'d like to look towards making our upcoming Junior Class into a more cohesive unit.  As former Student Body President of my small high school, I believe that I\'m well-suited to this role, and I look forward to learning from you more ways that I can improve my leadership.  I am grateful for any and every vote, and thank you once again Class of 2024!'],
+    },
 ]
 
 // // 2025
@@ -109,6 +116,6 @@ export const sophomore_candidate_data = [
     {
       imageSource: bryan,
       name: 'Bryan Soh (2025 President)',
-      candidateDescription: ['Hey guys! In case I haven’t had the pleasure of meeting you yet, I’m Bryan Soh (he/him), and I’m from sunny Singapore. Prior to college, I served in the Singaporean army as an officer and this past year, I have been serving on APASA’s executive board as Events Chair.', 'I want 2022 to be an even better year for us, and I won’t hesitate to get down to business to see our class’s vision come to fruition. Here is why I want to serve you as your SOHphomore class president:', '1) Improving 2025’s Community: Weekend kickbacks with boba & snacks, Netflix nights, karaoke evenings. Weekends are currently painfully underused, and there needs to be events suggested by you, for you.', 'Increasing Academic Support: Accessible study groups. Classes have been upping the ante, and I want that to foster more connections within our class, as well as connect us to more experienced upperclassmen.','Furthering D&I Initiatives: Inclusivity for under-represented groups. More socials for marginalized students to give you a safe space, and educational events to provide a platform within the wider CMC community. I want marginalized voices to be more than heard. I want them to matter.'],
+      candidateDescription: ['Hey guys! In case I haven’t had the pleasure of meeting you yet, I’m Bryan Soh (he/him), and I’m from sunny Singapore. Prior to college, I served in the Singaporean army as an officer and this past year, I have been serving on APASA’s executive board as Events Chair.', 'I want 2022 to be an even better year for us, and I won’t hesitate to get down to business to see our class’s vision come to fruition. Here is why I want to serve you as your SOHphomore class president:', '1) Improving 2025’s Community: Weekend kickbacks with boba & snacks, Netflix nights, karaoke evenings. Weekends are currently painfully underused, and there needs to be events suggested by you, for you.', 'Increasing Academic Support: Accessible study groups. Classes have been upping the ante, and I want that to foster more connections within our class, as well as connect us to more experienced upperclassmen.','Furthering D&I Initiatives: Inclusivity for under-represented groups. More socials for marginalized students to give you a safe space, and educational events to provide a platform within the wider CMC community. I want marginalized voices to be more than heard. I want them to matter.', 'More than your voice, I will be your hands and feet, working tirelessly to effect the changes you want to see in CMC. I also pledge to maintain open channels of communication to keep conversations flowing between the school and our class.','And most importantly, beyond this class president position, I just want to be a listening ear and a source of support for you guys. Say hi, or HMU at bsoh25@cmc.edu or on the ‘gram at @bryanjedidiah!'],
     }
 ]

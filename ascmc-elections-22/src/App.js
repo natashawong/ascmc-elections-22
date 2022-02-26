@@ -67,6 +67,7 @@ function App() {
             <ul>
               <li>Cristian Pang</li>
               <li>Ian Baime</li>
+              <li>Wolfy Hutton</li>
             </ul>
             </div>
 
