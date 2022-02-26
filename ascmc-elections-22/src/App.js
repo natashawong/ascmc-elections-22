@@ -15,7 +15,7 @@ function App() {
           <p> </p>
           <p>The following lists all currently declared candidates in running for elected positions for ASCMC Executive Board. All candidates below have successfully collected 200 school-wide signatures OR 50 class-wide signatures to declare their candidancy.</p>
             
-          <p>The deadline to turn in signatures and become a declared candidate is Sunday 2/27 at 11:59pm. Speeches will be Monday 3/1 at snack. Contact clay22@cmc.edu with any questions</p>
+          <p>The deadline to turn in signatures and become a declared candidate is Sunday 2/27 at 11:59pm. Speeches will be Monday 2/28 at snack. Contact clay22@cmc.edu with any questions</p>
           <h4 style={{color: 'red'}}><b>This website will be updated regularly with all candidates that will appear on the ballot as more join the race</b></h4>
 
           <div style={{display: 'flex', flexDirection: 'column'}}>
@@ -82,19 +82,19 @@ function App() {
 
           </div>
 
-          <h1>President</h1>
+          <h1><u>Candidates for President</u></h1>
           <Candidate candidateInfo={president_candidate_data}/>
-          <h1>Executive Vice President</h1>
+          <h1><u>Candidate(s) for Executive Vice President</u></h1>
           <Candidate candidateInfo={evp_candidate_data}/>
-          <h1>Vice President of Student Activities</h1>
+          <h1><u>Candidates for Vice President of Student Activities</u></h1>
           <Candidate candidateInfo={vpsa_candidate_data}/>
-          <h1>Dormitory Affairs Chair</h1>
+          <h1><u>Candidate(s) for Dormitory Affairs Chair</u></h1>
           <Candidate candidateInfo={dac_candidate_data}/>
-          <h1>Senior Class President (2023)</h1>
+          <h1><u>Candidates for Senior Class President (2023)</u></h1>
           <Candidate candidateInfo={senior_candidate_data}/>
-          <h1>Junior Class President (2024)</h1>
+          <h1><u>Candidates for Junior Class President (2024)</u></h1>
           <Candidate candidateInfo={junior_candidate_data}/>
-          <h1>Sophomore Class President (2025)</h1>
+          <h1><u>Candidates for Sophomore Class President (2025)</u></h1>
           <Candidate candidateInfo={sophomore_candidate_data}/>
         </div>
     </div>
