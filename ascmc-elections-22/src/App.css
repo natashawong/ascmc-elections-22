@@ -13,6 +13,18 @@
   }
 }
 
+.positionsLargeContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+@media (max-width: 600px) {
+  .positionsLargeContainer {
+    flex-direction: column;
+  }
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;

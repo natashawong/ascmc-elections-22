@@ -3,6 +3,7 @@ import Candidate from './Candidate';
 import {president_candidate_data, evp_candidate_data, vpsa_candidate_data, dac_candidate_data, senior_candidate_data, junior_candidate_data, sophomore_candidate_data} from './candidate_info/candidate_data';
 // import from "./candidate_info/candidate-pics/ascmclogo";
 import ascmcLogo from './candidate_info/candidate-pics/ascmclogo.png';
+import "./App.css";
 
 function App() {
   return (
@@ -18,7 +19,7 @@ function App() {
           <h4 style={{color: 'red'}}><b>This website will be updated regularly with all candidates that will appear on the ballot as more join the race</b></h4>
 
           <div style={{display: 'flex', flexDirection: 'column'}}>
-          <div style={{display: 'flex', flexDirection: 'row', justifyContent: 'space-between'}}>
+          <div className="positionsLargeContainer">
 
             <div style={{display: 'flex', flexDirection: 'column'}}>
               <h3>President</h3>
@@ -44,15 +45,15 @@ function App() {
             </div>
           </div>
 
-          <div style={{display: 'flex', flexDirection: 'row', justifyContent: 'space-between'}}>
-            <div style={{display: 'flex', flexDirection: 'column', marginLeft: '10px', marginRight: '10px'}}>
+          <div className="positionsLargeContainer">
+            <div className="positionContainer" style={{display: 'flex', flexDirection: 'column', marginLeft: '10px', marginRight: '10px'}}>
             <h3>Dormitory Affairs Chair</h3>
             <ul>
               <li>Kirby Kimball</li>
             </ul>
             </div>
 
-            <div style={{display: 'flex', flexDirection: 'column', marginLeft: '10px', marginRight: '10px'}}>
+            <div className="positionContainer" style={{display: 'flex', flexDirection: 'column', marginLeft: '10px', marginRight: '10px'}}>
             <h3>Class President '23</h3>
             <ul>
               <li>Sam Bogen</li>
@@ -61,7 +62,7 @@ function App() {
             </ul>
             </div>
 
-            <div style={{display: 'flex', flexDirection: 'column', marginLeft: '10px', marginRight: '10px'}}>
+            <div className="positionContainer" style={{display: 'flex', flexDirection: 'column', marginLeft: '10px', marginRight: '10px'}}>
             <h3>Class President '24</h3>
             <ul>
               <li>Cristian Pang</li>
@@ -69,7 +70,7 @@ function App() {
             </ul>
             </div>
 
-            <div style={{display: 'flex', flexDirection: 'column', marginLeft: '10px', marginRight: '10px'}}>
+            <div className="positionContainer" style={{display: 'flex', flexDirection: 'column', marginLeft: '10px', marginRight: '10px'}}>
             <h3>Class President '25</h3>
             <ul>
               <li>Giovanni Pierre</li>
