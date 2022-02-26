@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ascmc-elections-22/static/css/main.7dd56ccb.css",
-    "main.js": "/ascmc-elections-22/static/js/main.9bf81b1a.js",
+    "main.js": "/ascmc-elections-22/static/js/main.d206d066.js",
     "static/js/787.c2292069.chunk.js": "/ascmc-elections-22/static/js/787.c2292069.chunk.js",
     "static/media/sophiedvorkin.jpeg": "/ascmc-elections-22/static/media/sophiedvorkin.50044287456e5db1c761.jpeg",
     "static/media/amarihuang.jpeg": "/ascmc-elections-22/static/media/amarihuang.72789f4427e5c6d3eadb.jpeg",
@@ -13,16 +13,17 @@
     "static/media/joshnagra.jpg": "/ascmc-elections-22/static/media/joshnagra.924f5bd62dd939b39170.jpg",
     "static/media/colinsam.jpeg": "/ascmc-elections-22/static/media/colinsam.2b4ab89c255851c5ca1c.jpeg",
     "static/media/sambogen.JPG": "/ascmc-elections-22/static/media/sambogen.c311fc877366dab58995.JPG",
+    "static/media/wolfy.png": "/ascmc-elections-22/static/media/wolfy.754f79703d2bfd0b4c45.png",
     "static/media/ascmclogo.png": "/ascmc-elections-22/static/media/ascmclogo.47c21ad27b091b900ef4.png",
     "static/media/ianblaime.jpeg": "/ascmc-elections-22/static/media/ianblaime.47716bb0d4f46cb472cb.jpeg",
     "static/media/giovannipierre.jpeg": "/ascmc-elections-22/static/media/giovannipierre.aa7a86e7871e56baf1b2.jpeg",
     "index.html": "/ascmc-elections-22/index.html",
     "main.7dd56ccb.css.map": "/ascmc-elections-22/static/css/main.7dd56ccb.css.map",
-    "main.9bf81b1a.js.map": "/ascmc-elections-22/static/js/main.9bf81b1a.js.map",
+    "main.d206d066.js.map": "/ascmc-elections-22/static/js/main.d206d066.js.map",
     "787.c2292069.chunk.js.map": "/ascmc-elections-22/static/js/787.c2292069.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7dd56ccb.css",
-    "static/js/main.9bf81b1a.js"
+    "static/js/main.d206d066.js"
   ]
 }
