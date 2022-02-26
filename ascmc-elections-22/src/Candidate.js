@@ -7,7 +7,7 @@ export default function Candidate(props) {
         {props.candidateInfo.map((candidate) =>
             <div style={{display: 'flex', flexDirection: "column", placeContent: 'center', alignItems: 'center'}}>
                 <img src={candidate.imageSource} className="canphoto" alt="Headshot of candidate"/>
-                <h3>{candidate.name}</h3>
+                <h1>{candidate.name}</h1>
                 {candidate.candidateDescription.map((p) => <p style={{display: 'flex', flexDirection: "column"}}>{p}</p>)
 }              
             </div>

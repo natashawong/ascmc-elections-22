@@ -8,12 +8,18 @@ import sophiedvorkin from './candidate-pics/sophiedvorkin.jpeg';
 import amarihuang from './candidate-pics/amarihuang.jpeg';
 import cristianpang from './candidate-pics/cristianpang.jpg';
 import gio from './candidate-pics/giovannipierre.jpeg';
+import bryan from './candidate-pics/bryansoh.jpg'
 
 // import ascmcLogo from './candidate_info/candidate-pics/ascmclogo.jpg';
 // import ascmcLogo from './candidate_info/candidate-pics/ascmclogo.jpg';
 
 export const president_candidate_data = [
-    
+    {
+      imageSource: joshnagra,
+      name: 'Josh Nagra',
+      candidateDescription: ['Hello CMC!', 'My name is Josh Nagra, and it has been a pleasure serving as the Presidential Advisor for Mental Health and Wellness. As a queer student of color, I hope you find my experience and platform worthy of being your ASCMC President :) #MoshWithJosh', 'Other than bringing Megan Thee Stallion to Mckennapalooza and having more than one-ply toilet paper, I am dedicated to the following issues:', 'Supporting students of marginalized identities', '1) Guaranteed increases in funding for affinity groups. 2) Allocating dorm budgets for free menstrual products and laundry detergent pods. 3) Exempt all affinity groups from any limitations on spending during budget freeze. 4) Work with Roberts Pavilion to eliminate PE course fees. 5) Creating a comprehensive list of financial resources for students on campus', 'Mental health/Physical Wellbeing', '1) Free ‘Question, Persuade, Refer’ and Teal Dot training for all students offered year-round. 2) Start a peer-to-peer emotional health service providing relevant mental health support. 3) Provide generic Plan-B to all RAs in addition to contraceptives', 'Ensuring responses to every email and question for ASCMC officers', '1) Frequent accountability check-ins with every ASCMC officer', 'Student-Athletes', '1) Encouraging game attendance through kickbacks before and after events. 2) Snack bars and nutrition in training rooms', 'Inclusive and enjoyable ASCMC parties', '1) Direct feedback on ASCMC planned parties. 2) STOP TURNING ON THE SPRINKLERS ON GREEN BEACH DURING PARTIES. 3) Pay Advocates who lifeguard parties for their service to community safety', 'Supporting international students', '1) Streamlined documents and guides for filing taxes, renewing visas, and adjusting to a novel culture. 2) Hiring a drop-in therapist for international students. 3) Pressuring DOS to provide resources for students transitioning back to campus', 'In addition to:', '1) Ending ASCMC Closed-doors. 2) Unapologetically speaking up for students in faculty and trustee meetings. 3) Ending lack of ASCMC access for FGLI-students. 4) Supporting differently-abled students, faculty, and staff. 5) Increasing clarity regarding COVID-19'],
+    },
+
     {
       imageSource: jonJoeyPic,
       name: 'Jon Joey Telebrico',
@@ -23,17 +29,10 @@ export const president_candidate_data = [
     },
 
     {
-      imageSource: joshnagra,
-      name: 'Josh Nagra',
-      candidateDescription: [''],
-    },
-
-    {
       imageSource: colinsam,
       name: 'Colin Sam',
-      candidateDescription: [''],
+      candidateDescription: ['Hey CMC!', 'I’m Colin (he/him/his) and I’m from the greatest city in the world: Cincinnati, but both of my parents were born and raised in Monrovia, Liberia. I’m a big Bengals, Lakers, Ohio State, Real Madrid, and Chelsea fan; I love playing video games, sports, and doing volunteer work.','Before coming to CMC, I went to Cincinnati Country Day School for 12 years and participated in our student government as the school’s first Black student body president. At CMC, I was the Freshman and Sophomore class president for the class of 2023, co-founded CMC Volunteer Club, and I work at Roberts.', 'There are four main reasons why I should be the next ASCMC President: I love this school, I know our students, I have the experience, and I will be committed to the job.', 'First and foremost, I genuinely LOVE this school. Being here I have made so many lifelong friends; students, faculty, and staff. Most importantly, this is a place where I feel truly accepted and loved and that’s an experience we all deserve.','I KNOW the students here. I am an outgoing person and every day I meet new people who give me a new perspective on our campus. I love talking to as many people as I can and try to always be approachable.', 'I have the EXPERIENCE in ASCMC with two years as a class president and one year running an ASCMC club. Throughout my time in ASCMC, I’ve seen what works and more importantly what does not, so I have plenty of ideas about improving the organization.', 'Lastly, I am COMMITTED to the job of President. Being ASCMC President comes with a lot of responsibilities and it’s important that our President can commit their time fully to the needs of our student body.'],
     },
-
 ]
 
 export const evp_candidate_data = [
@@ -99,4 +98,10 @@ export const sophomore_candidate_data = [
       name: 'Giovanni Pierre',
       candidateDescription: [''],
     },
+
+    {
+      imageSource: bryan,
+      name: 'Bryan Soh',
+      candidateDescription: ['Hey guys! In case I haven’t had the pleasure of meeting you yet, I’m Bryan Soh (he/him), and I’m from sunny Singapore. Prior to college, I served in the Singaporean army as an officer and this past year, I have been serving on APASA’s executive board as Events Chair.', 'I want 2022 to be an even better year for us, and I won’t hesitate to get down to business to see our class’s vision come to fruition. Here is why I want to serve you as your SOHphomore class president:', '1) Improving 2025’s Community: Weekend kickbacks with boba & snacks, Netflix nights, karaoke evenings. Weekends are currently painfully underused, and there needs to be events suggested by you, for you.', 'Increasing Academic Support: Accessible study groups. Classes have been upping the ante, and I want that to foster more connections within our class, as well as connect us to more experienced upperclassmen.','Furthering D&I Initiatives: Inclusivity for under-represented groups. More socials for marginalized students to give you a safe space, and educational events to provide a platform within the wider CMC community. I want marginalized voices to be more than heard. I want them to matter.'],
+    }
 ]
