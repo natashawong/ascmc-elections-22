@@ -66,7 +66,7 @@ function App() {
             <h3>Class President '24</h3>
             <ul>
               <li>Cristian Pang</li>
-              <li>Ian Blaime</li>
+              <li>Ian Baime</li>
             </ul>
             </div>
 
