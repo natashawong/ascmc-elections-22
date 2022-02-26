@@ -93,7 +93,7 @@ export const junior_candidate_data = [
 
     {
       imageSource: ian,
-      name: 'Ian Blaime (2024 President)',
+      name: 'Ian Baime (2024 President)',
       candidateDescription: ['As a recently declared candidate Ian\'s candidate statement is incoming'],
     },
 ]
