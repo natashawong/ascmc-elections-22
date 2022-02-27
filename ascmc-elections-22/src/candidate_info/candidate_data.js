@@ -12,6 +12,8 @@ import bryan from './candidate-pics/bryansoh.jpg'
 import blank from './candidate-pics/blank.jpg'
 import ian from './candidate-pics/ianblaime.jpeg'
 import wolfy from './candidate-pics/wolfy.png'
+import chris from './candidate-pics/chris.png'
+import maya from './candidate-pics/mayakurkhill.jpg'
 
 // import ascmcLogo from './candidate_info/candidate-pics/ascmclogo.jpg';
 // import ascmcLogo from './candidate_info/candidate-pics/ascmclogo.jpg';
@@ -36,6 +38,10 @@ export const president_candidate_data = [
       name: 'Colin Sam (President)',
       candidateDescription: ['Hey CMC!', 'I’m Colin (he/him/his) and I’m from the greatest city in the world: Cincinnati, but both of my parents were born and raised in Monrovia, Liberia. I’m a big Bengals, Lakers, Ohio State, Real Madrid, and Chelsea fan; I love playing video games, sports, and doing volunteer work.','Before coming to CMC, I went to Cincinnati Country Day School for 12 years and participated in our student government as the school’s first Black student body president. At CMC, I was the Freshman and Sophomore class president for the class of 2023, co-founded CMC Volunteer Club, and I work at Roberts.', 'There are four main reasons why I should be the next ASCMC President: I love this school, I know our students, I have the experience, and I will be committed to the job.', 'First and foremost, I genuinely LOVE this school. Being here I have made so many lifelong friends; students, faculty, and staff. Most importantly, this is a place where I feel truly accepted and loved and that’s an experience we all deserve.','I KNOW the students here. I am an outgoing person and every day I meet new people who give me a new perspective on our campus. I love talking to as many people as I can and try to always be approachable.', 'I have the EXPERIENCE in ASCMC with two years as a class president and one year running an ASCMC club. Throughout my time in ASCMC, I’ve seen what works and more importantly what does not, so I have plenty of ideas about improving the organization.', 'Lastly, I am COMMITTED to the job of President. Being ASCMC President comes with a lot of responsibilities and it’s important that our President can commit their time fully to the needs of our student body.'],
     },
+    {
+      imageSource: maya,
+      name: 'Maya Kurkhill (President)',
+      candidateDescription: [''] },
 ]
 
 export const evp_candidate_data = [
@@ -49,9 +55,9 @@ export const evp_candidate_data = [
 
 export const vpsa_candidate_data = [
     {
-      imageSource: blank,
+      imageSource: chris,
       name: 'Christopher LaRovere (VPSA)',
-      candidateDescription: ['Come back soon to see candidate statement!'],
+      candidateDescription: ['Yay! :)'],
     },
 ]
 
