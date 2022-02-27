@@ -27,6 +27,7 @@ function App() {
                 <li>Josh Nagra</li>
                 <li>Jon Joey Telebrico</li>
                 <li>Colin Sam</li>
+                <li>Maya Kurkhill</li>
               </ul>
             </div>
 

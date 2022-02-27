@@ -14,6 +14,7 @@ import ian from './candidate-pics/ianblaime.jpeg'
 import wolfy from './candidate-pics/wolfy.png'
 import chris from './candidate-pics/chris.png'
 import maya from './candidate-pics/mayakurkhill.jpg'
+import concp from './candidate-pics/con-cp.png'
 
 // import ascmcLogo from './candidate_info/candidate-pics/ascmclogo.jpg';
 // import ascmcLogo from './candidate_info/candidate-pics/ascmclogo.jpg';
@@ -93,7 +94,7 @@ export const senior_candidate_data = [
 // // 2024
 export const junior_candidate_data = [
     {
-      imageSource: cristianpang,
+      imageSource: concp,
       name: 'Cristian Pang (2024 President)',
       candidateDescription: ['Hello everyone! For those who don’t know me my name is Cristian Pang, and I am running to be your Junior Class President. With this position I want to create an environment that is safe and open for everyone. As Covid is improving, we are slowly seeing what the Claremont Mckenna culture looks like. All of us have missed a huge chunk of our college experience and I believe that I can help make up many things that we have lost. One of the ways I will accomplish this is through organizing more amazing events for all of us to enjoy. Covid has put many barriers on many of our in-person events through capacity limits. One of my goals is to make these events more desirable to go to and accessible as I believe it would make the CMC environment more fun. The most important part about this position is hearing the opinion of you guys. If elected I would do everything in my power to try to implement the suggestions that I receive to make this a better place for all of us during these times. My name is Cristian Pang and I’m bringing sexy back to CMC. Sko Stags.', ' ', ' '],
     },
