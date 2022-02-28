@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ascmc-elections-22/static/css/main.7dd56ccb.css",
-    "main.js": "/ascmc-elections-22/static/js/main.5447b9c8.js",
+    "main.js": "/ascmc-elections-22/static/js/main.a81e8c37.js",
     "static/js/787.c2292069.chunk.js": "/ascmc-elections-22/static/js/787.c2292069.chunk.js",
     "static/media/con-cp.png": "/ascmc-elections-22/static/media/con-cp.81c51d8c5edd79fa87c9.png",
     "static/media/chris.png": "/ascmc-elections-22/static/media/chris.efae638ade22ab36aa6d.png",
@@ -22,11 +22,11 @@
     "static/media/giovannipierre.jpeg": "/ascmc-elections-22/static/media/giovannipierre.aa7a86e7871e56baf1b2.jpeg",
     "index.html": "/ascmc-elections-22/index.html",
     "main.7dd56ccb.css.map": "/ascmc-elections-22/static/css/main.7dd56ccb.css.map",
-    "main.5447b9c8.js.map": "/ascmc-elections-22/static/js/main.5447b9c8.js.map",
+    "main.a81e8c37.js.map": "/ascmc-elections-22/static/js/main.a81e8c37.js.map",
     "787.c2292069.chunk.js.map": "/ascmc-elections-22/static/js/787.c2292069.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7dd56ccb.css",
-    "static/js/main.5447b9c8.js"
+    "static/js/main.a81e8c37.js"
   ]
 }
