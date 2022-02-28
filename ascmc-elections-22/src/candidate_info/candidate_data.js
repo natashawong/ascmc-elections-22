@@ -15,6 +15,7 @@ import wolfy from './candidate-pics/wolfy.png'
 import chris from './candidate-pics/chris.png'
 import maya from './candidate-pics/mayakurkhill.jpg'
 import concp from './candidate-pics/con-cp.png'
+import addy from './candidate-pics/addison.PNG'
 
 // import ascmcLogo from './candidate_info/candidate-pics/ascmclogo.jpg';
 // import ascmcLogo from './candidate_info/candidate-pics/ascmclogo.jpg';
@@ -42,7 +43,7 @@ export const president_candidate_data = [
     {
       imageSource: maya,
       name: 'Maya Kurkhill (President)',
-      candidateDescription: [''] },
+      candidateDescription: ['As a recently declared candidate Maya\'s candidate statement is incoming'] },
 ]
 
 export const evp_candidate_data = [
@@ -127,8 +128,14 @@ export const sophomore_candidate_data = [
     },
 
     {
+      imageSource: addy,
+      name: 'Addison Reddinger (2025 President)',
+      candidateDescription: ['As a recently declared candidate Addison\'s candidate statement is incoming']
+    },
+
+    {
       imageSource: blank,
-      name: 'Addison Reddinger',
-      candidateDescription: ['new candidate']
-    }
+      name: 'Bianca Rodriguez (2025 President)',
+      candidateDescription: ['As a recently declared candidate Bianca\'s candidate statement is incoming']
+    },
 ]

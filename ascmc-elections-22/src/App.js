@@ -78,6 +78,7 @@ function App() {
               <li>Giovanni Pierre</li>
               <li>Bryan Soh</li>
               <li>Addison Reddinger</li>
+              <li>Bianca Rodriguez</li>
             </ul>
             </div>
 
