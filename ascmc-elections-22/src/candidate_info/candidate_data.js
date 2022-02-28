@@ -16,6 +16,7 @@ import chris from './candidate-pics/chris.png'
 import maya from './candidate-pics/mayakurkhill.jpg'
 import concp from './candidate-pics/con-cp.png'
 import addy from './candidate-pics/addison.PNG'
+import bianca from './candidate-pics/bianca.jpg'
 
 // import ascmcLogo from './candidate_info/candidate-pics/ascmclogo.jpg';
 // import ascmcLogo from './candidate_info/candidate-pics/ascmclogo.jpg';
@@ -134,7 +135,7 @@ export const sophomore_candidate_data = [
     },
 
     {
-      imageSource: blank,
+      imageSource: bianca,
       name: 'Bianca Rodriguez (2025 President)',
       candidateDescription: ['As a recently declared candidate Bianca\'s candidate statement is incoming']
     },
