@@ -16,7 +16,7 @@ function App() {
           <p>The following lists all currently declared candidates in running for elected positions for ASCMC Executive Board. All candidates below have successfully collected 200 school-wide signatures OR 50 class-wide signatures to declare their candidancy.</p>
             
           <p>The deadline to turn in signatures and become a declared candidate is Sunday 2/27 at 11:59pm. Speeches will be Monday 2/28 at snack. Contact clay22@cmc.edu with any questions</p>
-          <h4 style={{color: 'red'}}><b>This website will be updated regularly with all candidates that will appear on the ballot as more join the race</b></h4>
+          <h4 style={{color: 'red'}}><b>This website is <b>FINALIZED</b> with all candidates that will appear on the ballot</b></h4>
 
           <div style={{display: 'flex', flexDirection: 'column'}}>
           <div className="positionsLargeContainer">
